@@ -5,4 +5,4 @@
 - Ambientación<br>
 
 Para ejecutar el sistema, debes poner:
-´´´npm instal reac´´´
+```npm instal reac```
